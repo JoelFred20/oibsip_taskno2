@@ -20,17 +20,17 @@ The correlation matrix is visualized to explore relationships between different 
 The impact of the COVID-19 pandemic on the unemployment rate is visualized using a bar plot.
 7. Predictive Modeling:
 
-Linear Regression:
-Linear regression is applied to forecast future unemployment rates, and the model's performance is evaluated using mean squared error.
+   Linear Regression:
+   Linear regression is applied to forecast future unemployment rates, and the model's performance is evaluated using mean squared error.
 
-Random Forest Regression
-Random Forest regression is employed for unemployment rate prediction, and the model's accuracy is assessed.
+   Random Forest Regression
+   Random Forest regression is employed for unemployment rate prediction, and the model's accuracy is assessed.
 
-Decision Tree
-A Decision Tree model is utilized for predicting unemployment rates, and its performance is measured.
+   Decision Tree
+   A Decision Tree model is utilized for predicting unemployment rates, and its performance is measured.
 
-Support Vector Machine
-Support Vector Machines (SVM) are used for unemployment rate prediction, and the model's effectiveness is evaluated.
+   Support Vector Machine
+   Support Vector Machines (SVM) are used for unemployment rate prediction, and the model's effectiveness is evaluated.
 
 # How to Use
 Clone the repository: git clone https://github.com/your-username/unemployment-analysis.git
